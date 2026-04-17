@@ -103,7 +103,6 @@ STATUS  ████████░░░░  [ IN PROGRESS ]
 ```
 > Building a fully autonomous **UAV** with real-time obstacle avoidance, GPS waypoint navigation, and onboard computer vision for object detection. Powered by a custom flight controller and ML inference on edge hardware.
 
-**Stack:** `C++` `Python` `ROS2` `OpenCV` `ArduPilot` `Raspberry Pi`
 
 </td>
 <td width="50%" valign="top">
@@ -114,28 +113,7 @@ STATUS  █████░░░░░░░  [ PROTOTYPING ]
 ```
 > A **wearable bracelet** that interprets hand gestures using IMU + flex sensors and converts them to text notes via a trained gesture-classification model. No screen, no typing — just motion.
 
-**Stack:** `ESP32` `TensorFlow Lite` `MPU6050` `BLE` `Python`
 
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-## `< future_missions />`
-
-</div>
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  🛰️  SWARM DRONE COORDINATION  —  Multi-agent UAV mesh networking   │
-│  🧠  EDGE AI MODULE            —  Inference unit for embedded MCUs  │
-│  👁️  CV PIPELINE               —  Real-time aerial object tracking  │
-│  🩺  IoT HEALTH MONITOR        —  Wearable vitals + anomaly alerts  │
-│  🌾  AGRI-DRONE                —  Precision agriculture + NDVI maps |
-└─────────────────────────────────────────────────────────────────────┘
-```
-
----
