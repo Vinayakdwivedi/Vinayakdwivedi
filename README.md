@@ -19,10 +19,6 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=00d4ff&style=flat-square&label=VISITORS)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/YourUsername?style=flat-square&color=00d4ff&labelColor=0d1117)](https://github.com/YourUsername)
-
 </div>
 
 ---
