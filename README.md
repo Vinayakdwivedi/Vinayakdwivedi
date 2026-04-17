@@ -93,7 +93,7 @@ STATUS  ████████░░░░  [ IN PROGRESS ]
 
 ### 🤌 Gesture Note Bracelet
 ```
-STATUS  █████░░░░░░░  [ PROTOTYPING ]
+STATUS  █████░░░░░░░  [ Ideation ]
 ```
 > A **wearable bracelet** that interprets hand gestures using IMU + flex sensors and converts them to text notes via a trained gesture-classification model. No screen, no typing — just motion.
 
