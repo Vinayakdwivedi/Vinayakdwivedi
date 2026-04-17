@@ -1,6 +1,6 @@
 <!--
 ████████████████████████████████████████████████████████████████
-  GITHUB PROFILE README — @YourUsername
+  GITHUB PROFILE README — @Vinayakdwivedi
   Built with 💻 + ☕ + too many late nights
 ████████████████████████████████████████████████████████████████
 -->
@@ -122,7 +122,7 @@
 </div>
 
 ```yaml
-name        : "Your Name"
+name        : "Vinayakdwivedi"
 location    : "Greater Noida, Uttar Pradesh 🇮🇳"
 focus       : ["Machine Learning", "IoT", "Embedded Systems", "UAV Engineering"]
 currently   : ["Building autonomous drones", "Designing gesture-based wearables"]
