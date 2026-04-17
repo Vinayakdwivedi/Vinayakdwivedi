@@ -1,99 +1,22 @@
-<h1 align="center">Hi 👋, I'm Vinayak Dwivedi</h1>
-<h3 align="center">ML Engineer | IoT Builder | Embedded Systems Developer</h3>
-
----
-
-## 🧠 About Me
-- 🔬 Building **Machine Learning systems** for real-world problems  
-- ⚡ Working with **IoT + Embedded Systems (ESP32, STM32, Arduino)**  
-- 🌾 Developing **smart agriculture & monitoring solutions**  
-- 💻 Strong in **Web + Data Visualization + Backend APIs**  
-- 🧩 Love combining **hardware + AI** to build impactful products  
-
----
-
-## ⚙️ Tech Stack
-
-### 💡 Machine Learning
-- Python, Scikit-learn, Pandas, NumPy  
-- Model Training, Regression, Classification  
-- Feature Engineering, Data Pipelines  
-
-### 🌐 Web Development
-- HTML, CSS, JavaScript  
-- React (Basics)  
-- Django REST Framework  
-
-### 🔌 IoT & Embedded
-- ESP32, STM32, Arduino  
-- Sensors: MQ2, MQ135, DHT11  
-- ThinkSpeak, Real-time Monitoring Systems  
-
-### 🛠️ Other Tools
-- Git & GitHub  
-- REST APIs  
-- Linux  
-- Rust, C  
-
----
-
-## 🔥 Featured Projects
-
-### 🌾 Smart Grain Storage System
-- IoT + ML based spoilage prediction  
-- Sensors + ESP32 + Web Dashboard  
-- Predicts **spoilage & remaining safe days**
-
-### 🤖 AI Chatbot with Voice
-- Whisper + TTS + LLM integration  
-- Real-time conversation system  
-
-### 🚁 STM32 Drone
-- Custom flight controller  
-- MPU6050 sensor integration  
-- PID stabilization  
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Vinayak Dwivedi</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Machine+Learning;IoT+Systems;Web+Development;UAV+Engineering" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://cdn-icons-png.flaticon.com/512/4149/4149650.png" width="60" />
+  <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" width="60" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="60" />
+  <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="60" />
+</p>
+
+<p align="center">
+  ML • IoT • WebDev • UAVs
 </p>
 
 ---
 
-## 📈 Activity Graph (Animated)
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" />
 </p>
-
----
-
-## 🧩 Currently Working On
-- 🧠 ML models for **real-time sensor prediction**
-- 📡 IoT dashboards with **live analytics**
-- 🔐 Secure backend systems with **JWT authentication**
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
-
-## ⚡ Fun Fact
-I don’t just train models — I connect them to real-world hardware ⚙️
