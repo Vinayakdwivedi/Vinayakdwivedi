@@ -13,9 +13,14 @@
 <br/><br/>
 
 <!-- TYPEWRITER HEADER -->
+<!--
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=650&lines=Hey%2C+I'm+building+the+future+%F0%9F%9A%80;ML+%7C+IoT+%7C+Embedded+Systems;UAVs+%7C+Gesture+Tech+%7C+Edge+AI;From+Greater+Noida+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </a>
+-->
+<h1>
+  👋Hey, I am Vinayak
+</h1>
 
 <br/><br/>
 
@@ -37,6 +42,20 @@ currently   : ["Building autonomous drones", "Designing gesture-based wearables"
 learning    : ["Deep Learning", "ROS2", "Computer Vision", "FPGA"]
 philosophy  : "Build things that move — physically and digitally."
 ```
+
+---
+---
+
+## 🔬 Research & presentations
+
+| Type | Title | Venue | Year |
+|---|---|---|---|
+| 📄 **Paper** | Real-Time Multi Modal Sensor for Field Based Microplastic Detection | 2nd International Conference on Cognitive Computing in Engineering, Communications, Sciences and Biomedical Health Informatics (IC3ECSBHI) | 2026 |
+
+**Microplastic Sensor** This paper presents a compact, low cost system incorporating impedance, programmable multispectral optical sensing and machine learning-augmented microscopy allowing rapid on-site microplastic quantification. Using YOLOv8 based deep learning, the system automatically identifies size of the detected polymer and estimates its type in the provided water samples.
+
+![Conference]([https://img.shields.io/badge/Micro_2026-Published-blueviolet?style=flat](https://ieeexplore.ieee.org/document/11469066))
+
 
 ---
 
@@ -87,7 +106,7 @@ STATUS  ████████░░░░  [ IN PROGRESS ]
 ```
 STATUS  █████░░░░░░░  [ Ideation ]
 ```
-> A **wearable bracelet** that interprets hand gestures using IMU + flex sensors and converts them to text notes via a trained gesture-classification model. No screen, no typing — just motion.
+> A **wearable bracelet** that interprets hand gestures using IMU + EMG sensors and converts them to text notes via a trained gesture-classification model. No screen, no typing — just motion.
 
 
 </td>
