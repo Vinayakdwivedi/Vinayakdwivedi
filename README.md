@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- DRONE ANIMATION — upload drone.svg to the same repo root, it renders perfectly via img tag -->
-<img src="./drone.svg" width="100%" alt="Animated Drone"/>
+<!-- <img src="./drone.svg" width="100%" alt="Animated Drone"/> -->
 
 <br/><br/>
 
